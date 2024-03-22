@@ -1,0 +1,3 @@
+Electronics  | A1234 | Laptop | 12 | 499.99 | Lenovo | 12m | 
+Clothing  | C1111 | Shirt | 6|24.99 | S | Blue
+Electronics  | B2225 | Macbook Pro | 2 | 1299.99 | Apple | 12m | 
